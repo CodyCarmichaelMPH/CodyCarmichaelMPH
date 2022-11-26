@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+<img src="https://www.broadlyepi.com/wp-content/uploads/2022/04/cropped-logo_white_background_400SIZE.jpg"/>
   <div id="badges">
   <a href="https://www.broadlyepi.com/">
     <img src="https://img.shields.io/badge/BroadlyEpiBlog-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
@@ -13,8 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=CodyCarmichaelMPH&style=flat-square&color=blue" alt=""/>
   <h1> Hello there! </h1>
-<img src="https://www.broadlyepi.com/wp-content/uploads/2022/04/cropped-logo_white_background_400SIZE.jpg"/>
-
+<img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 
 ---
