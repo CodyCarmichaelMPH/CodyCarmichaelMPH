@@ -42,6 +42,7 @@
 
 ### Most Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis in R](https://www.broadlyepi.com/exploratory-data-analysis-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=exploratory-data-analysis-in-r)
 - [How to Read Excel Files in R &lpar;CSV and XLSX&rpar;](https://www.broadlyepi.com/read-csv-and-excel-data-in-r/?utm_source=rss&utm_medium=rss&utm_campaign=read-csv-and-excel-data-in-r)
 - [How to Install Python and a Python IDE](https://www.broadlyepi.com/how-to-install-python-and-a-python-ide/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-python-and-a-python-ide)
 - [How To Install R and RStudio](https://www.broadlyepi.com/how-to-install-r-and-rstudio/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-r-and-rstudio)
